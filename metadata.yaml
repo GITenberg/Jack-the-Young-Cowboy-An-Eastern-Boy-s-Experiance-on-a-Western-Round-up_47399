@@ -22,5 +22,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Jack the Young Cowboy: An Eastern Boy''s Experiance on a Western Round-up'
 url: http://www.gutenberg.org/ebooks/47399
